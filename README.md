@@ -1,2 +1,0 @@
-# slide_test
-GitPitchのテストです。

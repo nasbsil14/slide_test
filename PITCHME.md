@@ -24,10 +24,11 @@ MarkDown一例
 ---
 ### 3ページ目
 
-「Pro Edition」は有料になるらしい。
-「GitPitch Pro Beta」は無料とのことだが・・・
+「Pro Edition」は有料になるらしい。   
+「GitPitch Pro Beta」は無料とのことだが・・・   
 
-private repositoryのアクセスは、「Pro」版でyamlでの設定必要とのこと。
+private repositoryのアクセスは、「Pro」版でyamlでの設定必要とのこと。   
+(参考:https://gitpitch.com/pro-guide 「Published Mode」とか)
 
 ---
 ### おしまい
